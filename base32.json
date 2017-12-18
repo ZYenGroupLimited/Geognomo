@@ -1,0 +1,226 @@
+[
+ {
+   "Decimal": 0,
+   "Code": "A",
+   "Word": "Alpha",
+   "Binary Code": "00000",
+   "Star Name": "Atlas"
+ },
+ {
+   "Decimal": 1,
+   "Code": "B",
+   "Word": "Bravo",
+   "Binary Code": "00001",
+   "Star Name": "Bunda"
+ },
+ {
+   "Decimal": 2,
+   "Code": "C",
+   "Word": "Charlie",
+   "Binary Code": "00010",
+   "Star Name": "Cursa"
+ },
+ {
+   "Decimal": 3,
+   "Code": "D",
+   "Word": "Delta",
+   "Binary Code": "00011",
+   "Star Name": "Deneb"
+ },
+ {
+   "Decimal": 4,
+   "Code": "E",
+   "Word": "Echo",
+   "Binary Code": "00100",
+   "Star Name": "Enif"
+ },
+ {
+   "Decimal": 5,
+   "Code": "F",
+   "Word": "Foxtrot",
+   "Binary Code": "00101",
+   "Star Name": "Furud"
+ },
+ {
+   "Decimal": 6,
+   "Code": "G",
+   "Word": "Golf",
+   "Binary Code": "00110",
+   "Star Name": "Gacrux"
+ },
+ {
+   "Decimal": 7,
+   "Code": "H",
+   "Word": "Hotel",
+   "Binary Code": "00111",
+   "Star Name": "Hadar"
+ },
+ {
+   "Decimal": 8,
+   "Code": "I",
+   "Word": "India",
+   "Binary Code": "01000",
+   "Star Name": "Izar"
+ },
+ {
+   "Decimal": 9,
+   "Code": "J",
+   "Word": "Juliet",
+   "Binary Code": "01001",
+   "Star Name": "Jabbah"
+ },
+ {
+   "Decimal": 10,
+   "Code": "K",
+   "Word": "Kilo",
+   "Binary Code": "01010",
+   "Star Name": "Kastra"
+ },
+ {
+   "Decimal": 11,
+   "Code": "L",
+   "Word": "Lima",
+   "Binary Code": "01011",
+   "Star Name": "Lesath"
+ },
+ {
+   "Decimal": 12,
+   "Code": "M",
+   "Word": "Mike",
+   "Binary Code": "01100",
+   "Star Name": "Mira"
+ },
+ {
+   "Decimal": 13,
+   "Code": "N",
+   "Word": "November",
+   "Binary Code": "01101",
+   "Star Name": "Nembus"
+ },
+ {
+   "Decimal": 14,
+   "Code": "O",
+   "Word": "Oscar",
+   "Binary Code": "01110",
+   "Star Name": "Okul"
+ },
+ {
+   "Decimal": 15,
+   "Code": "P",
+   "Word": "Papa",
+   "Binary Code": "01111",
+   "Star Name": "Pollux"
+ },
+ {
+   "Decimal": 16,
+   "Code": "Q",
+   "Word": "Quebec",
+   "Binary Code": "10000",
+   "Star Name": "Quista"
+ },
+ {
+   "Decimal": 17,
+   "Code": "R",
+   "Word": "Romeo",
+   "Binary Code": "10001",
+   "Star Name": "Regor"
+ },
+ {
+   "Decimal": 18,
+   "Code": "S",
+   "Word": "Sierra",
+   "Binary Code": "10010",
+   "Star Name": "Subra"
+ },
+ {
+   "Decimal": 19,
+   "Code": "T",
+   "Word": "Tango",
+   "Binary Code": "10011",
+   "Star Name": "Tabit"
+ },
+ {
+   "Decimal": 20,
+   "Code": "U",
+   "Word": "Uniform",
+   "Binary Code": "10100",
+   "Star Name": "Unuk"
+ },
+ {
+   "Decimal": 21,
+   "Code": "V",
+   "Word": "Victor",
+   "Binary Code": "10101",
+   "Star Name": "Vega"
+ },
+ {
+   "Decimal": 22,
+   "Code": "W",
+   "Word": "Whisky",
+   "Binary Code": "10110",
+   "Star Name": "Wasat"
+ },
+ {
+   "Decimal": 23,
+   "Code": "X",
+   "Word": "X-ray",
+   "Binary Code": "10111",
+   "Star Name": "Xantus"
+ },
+ {
+   "Decimal": 24,
+   "Code": "2",
+   "Word": "2",
+   "Binary Code": "11000",
+   "Star Name": "2"
+ },
+ {
+   "Decimal": 25,
+   "Code": "3",
+   "Word": "3",
+   "Binary Code": "11001",
+   "Star Name": "3"
+ },
+ {
+   "Decimal": 26,
+   "Code": "4",
+   "Word": "4",
+   "Binary Code": "11010",
+   "Star Name": "4"
+ },
+ {
+   "Decimal": 27,
+   "Code": "5",
+   "Word": "5",
+   "Binary Code": "11011",
+   "Star Name": "5"
+ },
+ {
+   "Decimal": 28,
+   "Code": "6",
+   "Word": "6",
+   "Binary Code": "11100",
+   "Star Name": "6"
+ },
+ {
+   "Decimal": 29,
+   "Code": "7",
+   "Word": "7",
+   "Binary Code": "11101",
+   "Star Name": "7"
+ },
+ {
+   "Decimal": 30,
+   "Code": "8",
+   "Word": "8",
+   "Binary Code": "11110",
+   "Star Name": "8"
+ },
+ {
+   "Decimal": 31,
+   "Code": "9",
+   "Word": "9",
+   "Binary Code": "11111",
+   "Star Name": "9"
+ }
+]
