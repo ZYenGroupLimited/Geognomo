@@ -41,31 +41,29 @@ To explore QUTMS in action [click here!](https://geognomo.com/geognomo/QUTMS/)
  
 ## About Geognomo Geocoding project
 
-**Z/Yen** presents four geocoding system as open source to further advancement of algorithm and it's proper 
+**Z/Yen** presents four geocoding system as open source for further advancement of algorithm and it's proper 
 and optimized implementation. **Geognomo** itself is a **Django** web application and is integrated with **google map api** to
 display and work with maps in front-end. The open source code acts as basic back-end code which generated all the 
 details required to display it in any front-end of your choice.
 
-Open sourced **Geocoding** system  is a python project which lies under geocoding source folder. It structure is as follows:
-- base32.json: It is the json file which acts as the base32 converter to alphabets. Alphabets are use for simplicity and memoriability in Geognomo coding systems.
-- base32_data.py: It loads base32.json file from source directory and return json data for future manipulation.
-- example.py: If you want to quick start about geo-coding system then this is the starting open. It call geo-coding functions and prints result to 
-give you feel of how it works and can be implemented.
+Open sourced **Geocoding** system  is a python project which lies under geocoding source folder. Its structure is as follows:
+- base32.json: It is the json file which acts as base32 converter to alphabets. Alphabets are used for simplicity and memoriability in Geognomo coding systems.
+- base32_data.py: It loads base32.json file from source directory and returns json data for future manipulation.
+- example.py: If you want a quick start into GeoGnomo, have a look at this python file. It calls geo-coding functions and prints result to give you an example of how it works and can be implemented.
 - geocode_decoder: This is the decoder file of QTM, QUTMS geo-coding system.
 - geocode_encoder.py: This file acts as encoder for three different geo-coding system. QTM, QRS and QUTMS.
-- geocoding.py: This is the bridge for all geo-coding systems and front-end. It communicates with encoder and decoder of different geo coding systems and return the 
-result in json format.
-- integer2base.py: This function convert integer into the binary system.
-- interactive_example.py: This file contains interactive example: asking user input and print different geo-coding based on input.
-- qrs_decoder: This is the decoder file of QRS geo-coding system.
-- triangle.py: This file is module used inside QTM code to manipulate triangle.
+- geocoding.py: This is the bridge between geo-coding systems and front-end. It communicates with encoder and decoder of different geo coding systems and returns the result in json format.
+- integer2base.py: This function converts integer into the binary system.
+- interactive_example.py: This file contains an interactive example: asks for user input and prints different geo-codes based on the input.
+- qrs_decoder: This is the decoder file for QRS geo-coding system.
+- triangle.py: This file is the module used inside QTM code to manipulate triangle.
 - vrs_decoder: Decoder for VRS
 - vrs_encoder: Encoder for VRS
 
 ## Running Geocoding in local machine
 
-This project is python project so python need to be installed into the local machine. We also need git and numpy package.
-If you have pip installed you can install numpy as follows: 
+This is a python project therefore python needs to be installed into the local machine. Git and numpy packages are also needed.
+If you have pip installed, you can install numpy as follows: 
 
 ```commandline
 # install numpy using pip:
@@ -333,7 +331,7 @@ print qutms2latlon
 ```
 
 ### For VRS Code system: 
-VRS coding system takes two point as an input so we need two (latitude, longitude) combination.
+VRS coding system takes two points as inputs, so we need two (latitude, longitude) combinations.
 You can run VRS code system as shown:
 
 ```python
@@ -370,10 +368,9 @@ print vrs2latlon
 ```
 
 ## Using Geognomo Api for geocoding:
-
-As being open source project we provide api service for public, which can be integrated into any application and services. 
-Z/Yen will keep web api updated as new improvements are introduced in github. 
-Api is URL base api. So you will query the web url and get result in json format which you can further manipulate as your need.
+As GeoGnomo is an open source project, we have provided API as well. It can be integrated into any application and services.
+Z/Yen will keep the web API updated as new improvements are introduced in GitHub. 
+This API is a URL based API. You will query the web url and get results in JSON format which can be further manipulated by you.
 
 Url for Api uses are as follows: "http://geognomo.com/"
 - geognomo/api/latlon2qtm/latitude/longitude/altitude/level:
