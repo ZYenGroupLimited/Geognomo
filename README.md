@@ -41,7 +41,7 @@ To explore QUTMS in action [click here!](https://geognomo.com/geognomo/QUTMS/)
  
 ## About Geognomo Geocoding project
 
-**Z/Yen** presents four geocoding system as open source for further advancement of algorithm and it's proper 
+**Z/Yen** presents four geocoding system as open source for further advancement of algorithm and its proper 
 and optimized implementation. **Geognomo** itself is a **Django** web application and is integrated with **google map api** to
 display and work with maps in front-end. The open source code acts as basic back-end code which generated all the 
 details required to display it in any front-end of your choice.
